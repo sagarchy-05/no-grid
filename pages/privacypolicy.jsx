@@ -2,6 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 import { useState, useEffect } from "react";
+import s from "../styles/aboutus.module.css";
 
 export default function AboutUs() {
     const [height, setHeight] = useState("0vh");
@@ -10,7 +11,6 @@ export default function AboutUs() {
         <div>
             <Head>
                 <title>Privacy Policy</title>
-                <link rel="stylesheet" href="../styles/termspolicy.css" />
             </Head>
             <main>
                 <div id="mobileNav" style={{ display: shown, height: height }}>
@@ -83,8 +83,8 @@ export default function AboutUs() {
                     </div>
                 </nav>
 
-                <div id="head">Privacy Policy</div>
-                <div id="abtContent">
+                <div id={s.head}>Privacy Policy</div>
+                <div id={s.abtCont}>
 
                     <span>Section 1 - Do we use your information in any way?</span>
                     As part of the purchasing and selling process when you take any service from our site, we gather the personal data you provide to us, such as your name, address, and email address. We also automatically receive your computer's internet protocol (IP) address when you visit our site, which gives us knowledge about your operating system and browser. If appropriate, we may market to you via email by sending you information about our website and other updates.
