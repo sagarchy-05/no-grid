@@ -142,14 +142,7 @@ footer{
   color: white;
   padding: 0.5rem 0;
 }
-@media screen and (max-width:760px) {
-  #policyterms{
-    font-size: 200%;
-    /* font-weight: 400;
-    color: white;
-    padding: 0.5rem 0; */
-  }
-}
+
 .policy{
   border-right: 0.0625rem solid white ;
   padding: 0 0.5rem;
@@ -258,5 +251,13 @@ footer{
   }
   #footEm{
     font-size: 2rem;
+  }
+}
+@media screen and (max-width:760px) {
+  #policyterms{
+    font-size: 200%;
+    /* font-weight: 400;
+    color: white;
+    padding: 0.5rem 0; */
   }
 }
