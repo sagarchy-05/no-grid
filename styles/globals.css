@@ -142,6 +142,14 @@ footer{
   color: white;
   padding: 0.5rem 0;
 }
+@media screen and (max-width:900px) {
+  #policyterms{
+    font-size: 1rem;
+    font-weight: 400;
+    color: white;
+    padding: 0.5rem 0;
+  }
+}
 .policy{
   border-right: 0.0625rem solid white ;
   padding: 0 0.5rem;
