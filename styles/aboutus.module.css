@@ -59,4 +59,8 @@
     padding:4rem;
     color: white;
 }
-
+.newtext span{
+    color: var(--themeColor);
+    font-weight: 700;
+    font-size: 2.5rem;
+}
