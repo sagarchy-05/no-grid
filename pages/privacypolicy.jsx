@@ -86,22 +86,22 @@ export default function AboutUs() {
                 <div id={s.head}>Privacy Policy</div>
                 <div id={s.abtCont}>
 
-                    <span>Section 1 - Do we use your information in any way?</span>
+                    <span>Section 1 - Do we use your information in any way?</span><br/>
                     As part of the purchasing and selling process when you take any service from our site, we gather the personal data you provide to us, such as your name, address, and email address. We also automatically receive your computer's internet protocol (IP) address when you visit our site, which gives us knowledge about your operating system and browser. If appropriate, we may market to you via email by sending you information about our website and other updates.
-                    
-                    <span>Section 2 - Disclosure</span>
+                    <br/><br/>
+                    <span>Section 2 - Disclosure</span><br/>
                     If you breach our Terms of Service or if we are obliged by law to do so, we may share your personal information.
-                    
-                    <span>Section 3 - Security</span>
+                    <br/><br/>
+                    <span>Section 3 - Security</span><br/>
                     We follow industry best practises and take reasonable efforts to prevent your personal information from being improperly lost, misused, accessed, disclosed, altered, or destroyed.
-                    
-                    <span>Section 4 - Cookies</span>
+                    <br/><br/>
+                    <span>Section 4 - Cookies</span><br/>
                     To keep your user's session active, we use cookies. You are not personally identified by it on other websites.
-
-                    <span>Section 5 - Age of Consent</span>
+                    <br/><br/>
+                    <span>Section 5 - Age of Consent</span><br/>
                     By using this site, you certify that you are at least the legal age of majority in the state or province in which you reside, or that you are of legal age in that jurisdiction and have granted us permission for any minor dependents of yours to access this site.
-
-                    <span>Section 6 - Changes to this Privacy Policy</span>
+                    <br/><br/>
+                    <span>Section 6 - Changes to this Privacy Policy</span><br/>
                     Please check this policy often as we retain the right to change it at any moment. Modifications and clarifications will be effective right away once they are posted online. If we make any significant changes to this policy, we will let you know here so that you are aware of what data we collect, how we use it, and, if applicable, under what conditions we use and/or disclose it. Your information might be given to the new owners of our site if we are acquired by or merged with another business so that we can continue to sell you items.
                 
                 </div>
