@@ -85,7 +85,7 @@ export default function AboutUs() {
 
                 <div id={s.head}>Terms of Use</div>
                 <div id={s.abtCont}>
-
+                    <div className={s.newtext}>
                     <span>Overview</span><br/>
                     Grid Reputation is in charge of running this website. Grid Reputation is referred to as "we," "us," and "our" throughout the website. The use of this website, all information, tools, and services is provided by Grid Reputation, subject to your compliance with all terms, conditions, policies, and notices expressed here. You engage in our "Service" by browsing our website, buying anything from us, or both. By doing so, you agree to be bound by the terms and conditions set forth below, including all additional terms and conditions and policies linked herein and/or accessible via hyperlink. All users of the site, including without limitation browsers, vendors, customers, merchants, and/or content producers, are subject to these Terms of Service. Before using or visiting our website, please take the time to thoroughly read these Terms of Service. You agree to be bound by these Terms of Service by accessing or using any element of the website. You are not permitted to use any services or visit the website if you do not agree to all of the terms and conditions of this agreement. Acceptance is conditionally set forth in these Terms of Service, if these Terms of Service are an offer. The Terms of Service also apply to any new features or services that are added to the live website. On this page, you can always review the most recent version of the terms of service. By publishing updates and/or changes to our website, we retain the right to amend, modify, or replace any element of these Terms of Service. It is your obligation to periodically check this page for updates. Upon the publishing of any modifications, your continued use or access to the website implies acceptance of those changes.
                     <br/><br/>
@@ -124,7 +124,7 @@ export default function AboutUs() {
                     <br/><br/>
                     <span>Section 12 - Contact Information</span><br/>
                     Contact us with any questions you may have at support@gridreputation.com.
-
+                    </div>
                 </div>
                 <footer>
                     <div id="footerMain">
