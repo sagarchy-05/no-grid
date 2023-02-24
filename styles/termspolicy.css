@@ -13,7 +13,7 @@
     color: white;
 }
 span{
-    color: var(--themeColor);
+    color: #2499c0;
     font-weight: 700;
     font-size: 3rem;
 }
