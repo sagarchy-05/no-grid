@@ -191,6 +191,12 @@ footer{
   *{
     font-size: 60%;
   }
+  #policyterms{
+    font-size: 200%;
+    /* font-weight: 400;
+    color: white;
+    padding: 0.5rem 0; */
+  }
   #navRight{
     display: none;
   }
@@ -253,11 +259,4 @@ footer{
     font-size: 2rem;
   }
 }
-@media screen and (max-width:760px) {
-  #policyterms{
-    font-size: 200%;
-    /* font-weight: 400;
-    color: white;
-    padding: 0.5rem 0; */
-  }
-}
+
