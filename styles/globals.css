@@ -142,12 +142,12 @@ footer{
   color: white;
   padding: 0.5rem 0;
 }
-@media screen and (max-width:900px) {
+@media screen and (max-width:760px) {
   #policyterms{
-    font-size: 1rem;
-    font-weight: 400;
+    font-size: 90%;
+    /* font-weight: 400;
     color: white;
-    padding: 0.5rem 0;
+    padding: 0.5rem 0; */
   }
 }
 .policy{
