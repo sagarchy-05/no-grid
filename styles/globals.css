@@ -144,7 +144,7 @@ footer{
 }
 @media screen and (max-width:760px) {
   #policyterms{
-    font-size: 90%;
+    font-size: 200%;
     /* font-weight: 400;
     color: white;
     padding: 0.5rem 0; */
