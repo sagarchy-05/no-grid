@@ -134,7 +134,9 @@ export default function Home() {
                   <div className={s.marEle}>Content Writing |</div>
                 </Marquee>
               </div>
-              <div id={s.discover}>Discover</div>
+              <Link href="/discover">
+                <div id={s.discover}>Discover</div>
+              </Link>
             </div>
             <div id={s.headerImage}>
               <Image
